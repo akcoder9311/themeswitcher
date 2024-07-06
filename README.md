@@ -26,6 +26,7 @@ Context API
 [(git clone https://github.com/your-username/theme-switcher.git
 )]
 ```
+Change the repository
 cd theme-switcher
 
 Install dependencies:
