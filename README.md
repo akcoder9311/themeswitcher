@@ -5,9 +5,9 @@ A simple and elegant theme switcher built with ReactJS, Tailwind CSS, and Contex
 
 ## Features
 ```
-_Toggle between light and dark themes_
-_Responsive design_
-_Easy to integrate into any React project_
+Toggle between light and dark themes
+Responsive design
+Easy to integrate into any React project
 ```
 
 
@@ -15,9 +15,9 @@ _Easy to integrate into any React project_
 ## Technologies Used
 
 ```
-**ReactJS**
-**Tailwind CSS**
-**Context API**
+ReactJS
+Tailwind CSS
+Context API
 ```
 
 
@@ -25,7 +25,8 @@ _Easy to integrate into any React project_
 `Clone the repository:`
 [(git clone https://github.com/your-username/theme-switcher.git
 )]
-`cd theme-switcher`
+```
+cd theme-switcher```
 
 ### Install dependencies:
 npm install
