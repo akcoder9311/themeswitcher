@@ -26,15 +26,15 @@ Context API
 [(git clone https://github.com/your-username/theme-switcher.git
 )]
 ```
-cd theme-switcher```
+cd theme-switcher
 
-### Install dependencies:
+Install dependencies:
 npm install
 
-### Start the development server:
+Start the development server:
 npm start
+```
 
-
-### License
+License
 This project is licensed under the MIT License.
 
