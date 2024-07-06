@@ -4,17 +4,21 @@ A simple and elegant theme switcher built with ReactJS, Tailwind CSS, and Contex
 
 
 ## Features
+```
 _Toggle between light and dark themes_
 _Responsive design_
 _Easy to integrate into any React project_
+```
 
 
 
 ## Technologies Used
 
+```
 **ReactJS**
 **Tailwind CSS**
 **Context API**
+```
 
 
 ## Installation
